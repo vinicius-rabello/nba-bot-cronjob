@@ -4,7 +4,7 @@ Este repositório contém a rotina automatizada responsável por coletar diariam
 
 ## 🧠 Como funciona
 
-- Todos os dias à meia-noite (UTC), são feitas requisições à API [nba-bot-api](https://github.com/vinicius-rabello/nba-bot-api) para as seguintes datas:
+- Todos os dias à meia-noite, são feitas requisições à API [nba-bot-api](https://github.com/vinicius-rabello/nba-bot-api) para as seguintes datas:
   - Ontem
   - Hoje
   - Amanhã
